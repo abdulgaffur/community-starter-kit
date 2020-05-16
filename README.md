@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-_DESCRIPTION PLACEHOLDER
+_this is a description folder
 
 ## What it does
 
-_FEATURES PLACEHOLDER
+_this is a FEATURES PLACEHOLDER
 
 ## Getting started
 
